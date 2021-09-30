@@ -1,0 +1,16 @@
+body{
+    background-color: azure;
+    color:forestgreen
+}
+h1{ color: green}
+a:link {
+    color: dimgrey;}
+a:visited {
+    color: purple;}
+a:hover {
+  color: pink;
+}
+a:active {
+  color: lawngreen;
+}
+a{text-decoration:none}
