@@ -1,8 +1,11 @@
+*{margin: 0px;
+    padding:0px:;}
 body{
     background-color: azure;
     color:forestgreen
 }
-h1{ color: green}
+h1{ color: green;
+ align-content: center;}
 a:link {
     color: dimgrey;}
 a:visited {
@@ -13,4 +16,8 @@ a:hover {
 a:active {
   color: lawngreen;
 }
-a{text-decoration:none}
+a{text-decoration:none;}
+
+div{background-color:antiquewhite; width:300px;
+padding:20px 10px 10px 10px;
+border-style:solid;}
