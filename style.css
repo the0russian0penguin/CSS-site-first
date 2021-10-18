@@ -25,6 +25,7 @@ div.right{
  width:70%;
  height:500px;
  background-color:aqua; 
+ font-family: 'Noto Sans JP'
 }
 div.left{
  float:left;   
@@ -38,7 +39,7 @@ div.header{
 }
 div.footer{
 float:left;   
- width:100%;
+ width:100%;==
  height:100px;
  background-color:darkblue; 
 }
